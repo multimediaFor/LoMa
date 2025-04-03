@@ -29,9 +29,9 @@ If you use this code for your research, please cite our paper
 ```
 @article{lou2024image,
   title={Image Forgery Localization with State Space Models},
-  author={Lou, Zijie and Cao, Gang},
-  journal={arXiv preprint arXiv:2412.11214},
-  year={2024}
+  author={Lou, Zijie and Cao, Gang and Guo, Kun and Weng, Shaowei and Yu, Lifang},
+  journal={IEEE Signal Processing Letters},
+  year={2025}
 }
 ```
 ## License
