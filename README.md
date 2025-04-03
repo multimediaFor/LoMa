@@ -27,7 +27,7 @@ python test.py
 ## Citation
 If you use this code for your research, please cite our paper
 ```
-@article{lou2024image,
+@article{lou2025image,
   title={Image Forgery Localization with State Space Models},
   author={Lou, Zijie and Cao, Gang and Guo, Kun and Weng, Shaowei and Yu, Lifang},
   journal={IEEE Signal Processing Letters},
