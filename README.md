@@ -16,6 +16,13 @@ An official implementation code for paper "[Image Forgery Localization with Stat
 
 ## Usage
 
+For example to train:
+```bash
+cd LoMa/models
+python generate_npy.py
+python train.py 
+```
+
 For example to test:
 download [LoMa.pth](https://www.123684.com/s/2pf9-ucWHv)
 ```bash
