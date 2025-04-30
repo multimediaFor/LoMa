@@ -1,3 +1,5 @@
+# Copyright (c) 2023, Tri Dao, Albert Gu.
+
 import math
 from functools import partial
 from typing import Callable, Any
