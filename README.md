@@ -1,5 +1,5 @@
 ## Image Forgery Localization with State Space Models
-An official implementation code for paper "[Image Forgery Localization with State Space Models.](https://arxiv.org/abs/2412.11214)". This repo provide codes and trained weights.
+An official implementation code for paper "[Image Forgery Localization with State Space Models.](https://ieeexplore.ieee.org/document/10959075)". This repo provide codes and trained weights.
 
 ## Framework
 <p align='center'>  
