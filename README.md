@@ -14,6 +14,8 @@ An official implementation code for paper "[Image Forgery Localization with Stat
 - mamba-ssm 1.0.1
 - selective_scan 0.0.2
 
+## Installation
+Please refer to the installation of [VMamba](https://github.com/MzeroMiko/VMamba)
 ## Usage
 
 For example to train:
