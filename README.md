@@ -26,7 +26,7 @@ python train.py
 ```
 
 For example to test:
-download [LoMa.pth](https://www.123684.com/s/2pf9-ucWHv)
+download LoMa.pth from [123pan](https://www.123684.com/s/2pf9-ucWHv) or [Google Drive](https://drive.google.com/file/d/1282bUvrB5WvgqWHOQYhwdPCwAIGlo6Lb/view?usp=sharing)
 ```bash
 cd LoMa/models
 python generate_npy.py
