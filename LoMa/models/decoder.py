@@ -1,7 +1,6 @@
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
-from freqfusion import FreqFusion
 
 class MLP(nn.Module):
    
